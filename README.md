@@ -1,5 +1,5 @@
 # Telegram Message
-Send message to Telegram with shell script
+Send message to Telegram with shell script - simple like the life
 
 # To use:
 Clone this repo, set the data inside telegramsg.sh and run this commands:
